@@ -1,0 +1,30 @@
+{
+  "name": "mobile-accesibility",
+  "version": "0.1.0",
+  "description": "A discord bot for people that mainly use the mobile app",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/5jiji/Mobile-Accesibility-Bot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discord.js"
+  ],
+  "author": "5jiji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/5jiji/Mobile-Accesibility-Bot/issues"
+  },
+  "homepage": "https://github.com/5jiji/Mobile-Accesibility-Bot#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.15.0",
+    "@discordjs/rest": "^0.5.0",
+    "discord-api-types": "^0.35.0",
+    "discord.js": "^13.8.1"
+  }
+}
